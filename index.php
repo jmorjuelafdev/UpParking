@@ -215,7 +215,6 @@
                             </select>
                         </div>
                 </div>
-                </form>
                 <div class="col">
                     <input class="form-control" name="fechaentrada" type="hidden" placeholder="Fecha ingreso" for="disabled">
                 </div>
@@ -230,7 +229,6 @@
                 <!--Fin Formulario ingreso--->
                 <br><br><br><br><br><br><br><br>
         </section><!-- End Ingreso Section -->
-
 
 
         <!-- ======= Reporte Section ======= -->
@@ -269,7 +267,7 @@
 
         <!-- ======= Registro Section ======= -->
         <section id="registro" class="registro">
-            <br><br><br><br><br><br>
+            <br><br><br>
             <div class="container" data-aos="fade-up">
                 <div style="overflow-x:auto;">
                     <table id="parkingTable">
