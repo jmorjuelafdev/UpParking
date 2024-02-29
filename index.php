@@ -70,7 +70,7 @@
                 <div class="container" data-aos="fade-up">
                     <form method="post" id="form-parqueo" autocomplete="off" class="row g-3">
                         <div class="text-center">
-                            <h3>Registro de vehículos</h3>
+                            <h3>Registro de vehículos.</h3>
                         </div>
                         <br>
                         <div class="col-md-4"><!--Formulario ingreso-->
